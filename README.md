@@ -372,25 +372,53 @@ Weather-CNN/
 
 │   ├── train/
 
-│   │   ├── cloudy/
+│   │   ├── fogsmog/
 
-│   │   ├── rainy/
+│   │   ├── frost/
 
-│   │   ├── sunny/
+│   │   ├── rain/
 
-│   │   └── snow/
+│   │   ├── lightning/
+
+│   │   ├── sandstorm/
+
+│   │   ├── snow/
+
+│   │   ├── rainbow/
+
+│   │   ├── rime/
+
+│   │   ├── dew/
+
+│   │   ├── glaze/
+
+│   │   └── hail/
 
 │   │
 
 │   └── test/
 
-│       ├── cloudy/
+│       ├── fogsmog/
 
-│       ├── rainy/
+│       ├── frost/
 
-│       ├── sunny/
+│       ├── rain/
 
-│       └── snow/
+│       ├── lightning/
+
+│       ├── sandstorm/
+
+│       ├── snow/
+
+│       ├── rainbow/
+
+│       ├── rime/
+
+│       ├── dew/
+
+│       ├── glaze/
+
+│       └── hail/
 
 │
 
